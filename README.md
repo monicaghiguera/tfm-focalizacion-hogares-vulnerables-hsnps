@@ -4,10 +4,6 @@ Trabajo Fin de Máster del Master Data Science, Big Data & Business Analytics (U
 
 Aplicación de técnicas de Ciencia de Datos para analizar un programa de protección social y mejorar la identificación de hogares vulnerables, usando como caso de estudio el Hunger Safety Net Programme (HSNP), un programa de transferencias monetarias en el norte de Kenia.
 
-Memoria completa en PDF: [memoria-tfm.pdf](./memoria-tfm.pdf)
-
-Análisis completo en HTML: [analisis-tfm.html](https://monicaghiguera.github.io/tfm-focalizacion-hogares-vulnerables-hsnps/analisis-tfm.html)
-
 ## Objetivo
 
 El trabajo combina dos enfoques que responden a preguntas distintas:
