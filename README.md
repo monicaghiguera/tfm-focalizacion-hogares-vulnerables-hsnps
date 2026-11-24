@@ -36,6 +36,7 @@ Modelos comparados: regresión logística, árbol de decisión, Random Forest y 
 Metodología: validación cruzada, métricas de evaluación y optimización de hiperparámetros.
 
 Modelo final: Random Forest optimizado.
+![Curva ROC del modelo Random Forest](./img/roc.png)
 
 Métricas en test: ROC-AUC de 0,791 y recall de 0,743.
 
