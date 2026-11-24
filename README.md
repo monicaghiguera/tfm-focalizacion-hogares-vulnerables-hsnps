@@ -6,6 +6,8 @@ Aplicación de técnicas de Ciencia de Datos para analizar un programa de protec
 
 Memoria completa en PDF: [memoria-tfm.pdf](./memoria-tfm.pdf)
 
+Análisis completo en HTML: [analisis-tfm.html](https://monicaghiguera.github.io/tfm-focalizacion-hogares-vulnerables-hsnps/analisis-tfm.html)
+
 ## Objetivo
 
 El trabajo combina dos enfoques que responden a preguntas distintas:
