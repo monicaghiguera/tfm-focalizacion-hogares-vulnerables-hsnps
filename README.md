@@ -36,12 +36,16 @@ Modelos comparados: regresión logística, árbol de decisión, Random Forest y 
 Metodología: validación cruzada, métricas de evaluación y optimización de hiperparámetros.
 
 Modelo final: Random Forest optimizado.
+### Curva ROC
+
+![Curva ROC del modelo Random Forest](./Captura de pantalla 2026-11-24 132040.png)
 
 Métricas en test: ROC-AUC de 0,791 y recall de 0,743.
 
 Interpretabilidad: importancia de variables, coeficientes de la regresión logística y SHAP.
 
 Simulación de focalización: al seleccionar el 20 % de hogares con mayor riesgo predicho, el 87 % de ese grupo presentaba inseguridad alimentaria, frente al 55,7 % de la muestra general. Esto supone una mejora relativa de aproximadamente el 56,1 % en la concentración de hogares vulnerables.
+
 
 ## Tecnologías utilizadas
 
